@@ -2,7 +2,7 @@
 
 ###############################################################################
 #         Wifi Kill                                                           #
-#        Robert Glew                                                          #
+#        L0LZ666H05T                                                          #
 #                                                                             #
 # This python script can be used to kick anyone or everyone off of your wifi  #
 # network. The script must be run as sudo in order to send the required       #
